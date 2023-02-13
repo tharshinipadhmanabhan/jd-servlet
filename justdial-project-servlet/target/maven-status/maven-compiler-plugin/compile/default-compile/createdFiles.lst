@@ -1,0 +1,6 @@
+model\CatList.class
+model\Ad_Details.class
+controller\Search.class
+controller\Signin.class
+controller\Register.class
+controller\Catagory.class
